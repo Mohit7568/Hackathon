@@ -1,6 +1,6 @@
 :root{
-    --mainclr:#239f85;
-    --secclr:#ff5d22;
+    --mainclr:#1791f5;
+    --secclr:#5cd40c;
     --third:#DFE4E0;
     --mainafterclr:hsl(167, 81%, 79%);
 }
@@ -28,13 +28,15 @@ html{
     right: 0;
     z-index: 1000;
 }
-.header #logo{
+ /* #logo{
     width: 50px;
-}
+    height: 80px;
+} */
+
 .navbar a{
     color: white;
     font-size: 1.5rem;
-    margin-left: 2rem;
+    margin-left: 9rem;
     position: relative;
   
 }
